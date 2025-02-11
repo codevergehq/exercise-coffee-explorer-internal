@@ -17,7 +17,7 @@
         "Espresso"
       ],
       "roast_level": 3,
-      "image_url": "/public/assets/H8Y78Qt.webp"
+      "image_url": "./assets/H8Y78Qt.webp"
     },
     {
       "id": 2,
@@ -36,7 +36,7 @@
         "Espresso"
       ],
       "roast_level": 2,
-      "image_url": "/public/assets/H8Y7WEg.webp"
+      "image_url": "./assets/H8Y7WEg.webp"
     },
     {
       "id": 3,
@@ -55,7 +55,7 @@
         "Espresso"
       ],
       "roast_level": 2,
-      "image_url": "/public/assets/H8Y7kTN.webp"
+      "image_url": "./assets/H8Y7kTN.webp"
     },
     {
       "id": 4,
@@ -75,7 +75,7 @@
         "Espresso"
       ],
       "roast_level": 3,
-      "image_url": "/public/assets/H8Y7X4a.webp"
+      "image_url": "./assets/H8Y7X4a.webp"
     },
     {
       "id": 5,
@@ -95,7 +95,7 @@
         "Espresso"
       ],
       "roast_level": 5,
-      "image_url": "/public/assets/H8Y7r4s.webp"
+      "image_url": "./assets/H8Y7r4s.webp"
     },
     {
       "id": 6,
@@ -115,7 +115,7 @@
         "Espresso"
       ],
       "roast_level": 3,
-      "image_url": "/public/assets/H8Y7gGn.webp"
+      "image_url": "./assets/H8Y7gGn.webp"
     },
     {
       "id": 7,
@@ -132,7 +132,7 @@
         "Filter"
       ],
       "roast_level": 1,
-      "image_url": "/public/assets/H8Y7lpV.webp"
+      "image_url": "./assets/H8Y7lpV.webp"
     },
     {
       "id": 8,
@@ -153,7 +153,7 @@
         "French press"
       ],
       "roast_level": 4,
-      "image_url": "/public/assets/H8Y7wYv.webp"
+      "image_url": "./assets/H8Y7wYv.webp"
     },
     {
       "id": 9,
@@ -173,7 +173,7 @@
         "Filter",
         "Espresso"
       ],
-      "image_url": "/public/assets/H8Y7VCF.webp"
+      "image_url": "./assets/H8Y7VCF.webp"
     },
     {
       "id": 10,
@@ -194,7 +194,7 @@
         "Filter",
         "Espresso"
       ],
-      "image_url": "/public/assets/H8Y7NvR.webp"
+      "image_url": "./assets/H8Y7NvR.webp"
     },
     {
       "id": 11,
@@ -213,7 +213,7 @@
         "Cafetiere",
         "Filter"
       ],
-      "image_url": "/public/assets/H8Y5Sgj.webp"
+      "image_url": "./assets/H8Y5Sgj.webp"
     },
     {
       "id": 12,
@@ -232,7 +232,7 @@
         "Filter",
         "Espresso"
       ],
-      "image_url": "/public/assets/H8Y7vjI.webp"
+      "image_url": "./assets/H8Y7vjI.webp"
     },
     {
       "id": 13,
@@ -249,7 +249,7 @@
         "Whole Bean",
         "Filter"
       ],
-      "image_url": "/public/assets/H8Y7GQ1.webp"
+      "image_url": "./assets/H8Y7GQ1.webp"
     },
     {
       "id": 14,
@@ -269,7 +269,7 @@
         "Filter",
         "Espresso"
       ],
-      "image_url": "/public/assets/H8Y7ckQ.webp"
+      "image_url": "./assets/H8Y7ckQ.webp"
     },
     {
       "id": 15,
@@ -290,7 +290,7 @@
         "Espresso"
       ],
       "roast_level": 4,
-      "image_url": "/public/assets/H8Y7Opp.webp"
+      "image_url": "./assets/H8Y7Opp.webp"
     },
     {
       "id": 16,
@@ -311,7 +311,7 @@
         "Pour Over"
       ],
       "roast_level": 1,
-      "image_url": "/public/assets/H8Y7j3J.webp"
+      "image_url": "./assets/H8Y7j3J.webp"
     },
     {
       "id": 17,
@@ -331,7 +331,7 @@
         "Espresso"
       ],
       "roast_level": 5,
-      "image_url": "/public/assets/H8Y7UCX.webp"
+      "image_url": "./assets/H8Y7UCX.webp"
     },
     {
       "id": 18,
@@ -352,7 +352,7 @@
         "Espresso"
       ],
       "roast_level": 3,
-      "image_url": "/public/assets/H8Y71TB.webp"
+      "image_url": "./assets/H8Y71TB.webp"
     },
     {
       "id": 19,
@@ -371,7 +371,7 @@
         "Filter",
         "Espresso"
       ],
-      "image_url": "/public/assets/H8Y7aYx.webp",
+      "image_url": "./assets/H8Y7aYx.webp",
       "price": 9.99
     },
     {
@@ -393,6 +393,6 @@
         "Espresso"
       ],
       "roast_level": 2,
-      "image_url": "/public/assets/H8Y7EhP.webp"
+      "image_url": "./assets/H8Y7EhP.webp"
     }
   ]
