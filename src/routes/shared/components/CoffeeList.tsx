@@ -27,7 +27,7 @@ function CoffeeList() {
       )
 
     const handleCoffeeClick = (coffee: Coffee) => {
-        navigate(`/${coffee.id}`);
+        navigate(`/${coffee.id}?${searchParams.toString()}`);
     }
 
     return (
